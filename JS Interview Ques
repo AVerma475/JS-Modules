@@ -1,0 +1,2 @@
+1. create a function to clearAllTimeouts in a webpage.   - https://codeshare.io/78XOgo
+2. Create a function that takes an array of async function and executes them in a single order
